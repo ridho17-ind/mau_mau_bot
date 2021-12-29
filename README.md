@@ -23,3 +23,7 @@ Current gamemodes available: classic, fast and wild. Check the details with the 
 Then run the bot with `python3 bot.py`.
 
 Code documentation is minimal but there.
+
+
+###Deploy
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ridho17-ind/mau_mau_bot"><img src="https://img.shields.io/badge/BUAT DI-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
