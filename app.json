@@ -1,0 +1,10 @@
+{
+  "name": "TelegramChat",
+  "description": "Bot uno.",
+  "env": {
+    "BOTAN_TOKEN": {
+      "description": "Dapatkan di @botfather",
+      "value": ""
+    }
+  }
+}
